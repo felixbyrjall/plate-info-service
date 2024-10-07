@@ -1,0 +1,890 @@
+{
+    "Felles bokstavkombinasjoner": [
+        {
+            "Kjøretøy": "Elektriskdrevet kjøretøy",
+            "Bokstavkombinasjon": [
+                "EL",
+                "EK",
+                "EV",
+                "EB",
+                "EC",
+                "ED",
+                "EE",
+                "EF",
+                "EH",
+                "EJ",
+                "EN"
+            ]
+        },
+        {
+            "Kjøretøy": "Gassdrevet kjøretøy",
+            "Bokstavkombinasjon": [
+                "GA"
+            ]
+        },
+        {
+            "Kjøretøy": "Hydrogendrevet kjøretøy",
+            "Bokstavkombinasjon": [
+                "HY"
+            ]
+        },
+        {
+            "Kjøretøy": "Ambassadekjøretøy (Corps Diplomatique)",
+            "Bokstavkombinasjon": [
+                "CD"
+            ]
+        }
+    ],
+    "Bokstavkombinasjoner fra trafikkstasjon": [
+        {
+            "Fylke": "Akershus",
+            "Geografisk område": "Asker og Bærum",
+            "Bokstavkombinasjon": [
+                "BL",
+                "BN",
+                "BP",
+                "BR",
+                "BS",
+                "BT",
+                "BU",
+                "BV",
+                "BX",
+                "BY",
+                "BZ",
+                "CA",
+                "CB"
+            ]
+        },
+        {
+            "Fylke": "Akershus",
+            "Geografisk område": "Drøbak",
+            "Bokstavkombinasjon": [
+                "BC",
+                "BD",
+                "BE",
+                "BF",
+                "BH",
+                "BJ",
+                "BK"
+            ]
+        },
+        {
+            "Fylke": "Akershus",
+            "Geografisk område": "Jessheim",
+            "Bokstavkombinasjon": [
+                "CV",
+                "CX",
+                "CY",
+                "CZ",
+                "CU"
+            ]
+        },
+        {
+            "Fylke": "Akershus",
+            "Geografisk område": "Lillestrøm",
+            "Bokstavkombinasjon": [
+                "CC",
+                "CE",
+                "CF",
+                "CH",
+                "CJ",
+                "CK",
+                "CL",
+                "CN",
+                "CP",
+                "CR",
+                "CS",
+                "CT",
+                "CU"
+            ]
+        },
+        {
+            "Fylke": "Buskerud",
+            "Geografisk område": "Drammen",
+            "Bokstavkombinasjon": [
+                "KE",
+                "KF",
+                "KH",
+                "KJ",
+                "KK",
+                "KL",
+                "KN",
+                "KP",
+                "KR",
+                "KS"
+            ]
+        },
+        {
+            "Fylke": "Buskerud",
+            "Geografisk område": "Gol",
+            "Bokstavkombinasjon": [
+                "KB",
+                "KC",
+                "KD"
+            ]
+        },
+        {
+            "Fylke": "Buskerud",
+            "Geografisk område": "Hønefoss",
+            "Bokstavkombinasjon": [
+                "JU",
+                "JV",
+                "JX",
+                "JY",
+                "JZ",
+                "KA"
+            ]
+        },
+        {
+            "Fylke": "Buskerud",
+            "Geografisk område": "Kongsberg",
+            "Bokstavkombinasjon": [
+                "KT",
+                "KU",
+                "KV",
+                "KX",
+                "KY"
+            ]
+        },
+        {
+            "Fylke": "Østfold",
+            "Geografisk område": "Hafslund (tidligere Fredrikstad)",
+            "Bokstavkombinasjon": [
+                "AD",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AV",
+                "AW",
+                "DW",
+                "FL",
+                "ES"
+            ]
+        },
+        {
+            "Fylke": "Østfold",
+            "Geografisk område": "Halden",
+            "Bokstavkombinasjon": [
+                "AA",
+                "AB",
+                "AC"
+            ]
+        },
+        {
+            "Fylke": "Østfold",
+            "Geografisk område": "Moss",
+            "Bokstavkombinasjon": [
+                "AX",
+                "AY",
+                "AZ",
+                "BA"
+            ]
+        },
+        {
+            "Fylke": "Østfold",
+            "Geografisk område": "Mysen",
+            "Bokstavkombinasjon": [
+                "AJ",
+                "AK",
+                "AL",
+                "AN",
+                "AP",
+                "FN",
+                "BW"
+            ]
+        },
+        {
+            "Fylke": "Østfold",
+            "Geografisk område": "Sarpsborg",
+            "Bokstavkombinasjon": [
+                "AE",
+                "AF",
+                "AH"
+            ]
+        },
+        {
+            "Fylke": "Oslo",
+            "Geografisk område": "Oslo",
+            "Bokstavkombinasjon": [
+                "DA",
+                "DB",
+                "DC",
+                "DD",
+                "DE",
+                "DF",
+                "DH",
+                "DJ",
+                "DK",
+                "DL",
+                "DN",
+                "DP",
+                "DR",
+                "DS",
+                "DT",
+                "DU",
+                "DV",
+                "DX",
+                "DY",
+                "DZ",
+                "EA",
+                "EP",
+                "ER",
+                "EU"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Elverum",
+            "Bokstavkombinasjon": [
+                "HB",
+                "HC",
+                "HD",
+                "HE",
+                "HA",
+                "FZ"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Fagernes",
+            "Bokstavkombinasjon": [
+                "JR",
+                "JS",
+                "JT"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Gjøvik",
+            "Bokstavkombinasjon": [
+                "JC",
+                "JD",
+                "JE",
+                "JF",
+                "JH",
+                "JJ",
+                "JK",
+                "JL",
+                "JN",
+                "JP"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Hamar",
+            "Bokstavkombinasjon": [
+                "FS",
+                "FT",
+                "FU",
+                "FV",
+                "FX",
+                "FY",
+                "FZ",
+                "FW",
+                "ET"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Kongsvinger",
+            "Bokstavkombinasjon": [
+                "HJ",
+                "HK",
+                "HL",
+                "HN",
+                "HP",
+                "HR"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Lillehammer",
+            "Bokstavkombinasjon": [
+                "HS",
+                "HT",
+                "HU",
+                "HV",
+                "HX",
+                "FB"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Otta",
+            "Bokstavkombinasjon": [
+                "HZ",
+                "JA",
+                "JB"
+            ]
+        },
+        {
+            "Fylke": "Innlandet",
+            "Geografisk område": "Tynset",
+            "Bokstavkombinasjon": [
+                "HF",
+                "HH"
+            ]
+        },
+        {
+            "Fylke": "Vestfold",
+            "Geografisk område": "Horten",
+            "Bokstavkombinasjon": [
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LD"
+            ]
+        },
+        {
+            "Fylke": "Vestfold",
+            "Geografisk område": "Larvik",
+            "Bokstavkombinasjon": [
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LX",
+                "LZ",
+                "NA",
+                "NB",
+                "NC"
+            ]
+        },
+        {
+            "Fylke": "Vestfold",
+            "Geografisk område": "Sandefjord",
+            "Bokstavkombinasjon": [
+                "LY",
+                "NA"
+            ]
+        },
+        {
+            "Fylke": "Vestfold",
+            "Geografisk område": "Tønsberg",
+            "Bokstavkombinasjon": [
+                "LH",
+                "LJ",
+                "LK",
+                "LL",
+                "LN",
+                "LP",
+                "LR",
+                "LD"
+            ]
+        },
+        {
+            "Fylke": "Telemark",
+            "Geografisk område": "Notodden",
+            "Bokstavkombinasjon": [
+                "NV",
+                "NX",
+                "NY",
+                "NZ"
+            ]
+        },
+        {
+            "Fylke": "Telemark",
+            "Geografisk område": "Rjukan",
+            "Bokstavkombinasjon": [
+                "PA",
+                "PB"
+            ]
+        },
+        {
+            "Fylke": "Telemark",
+            "Geografisk område": "Skien",
+            "Bokstavkombinasjon": [
+                "ND",
+                "NE",
+                "NF",
+                "NH",
+                "NJ",
+                "NK",
+                "NL",
+                "NN",
+                "NP",
+                "NR",
+                "NT",
+                "NU"
+            ]
+        },
+        {
+            "Fylke": "Agder",
+            "Geografisk område": "Arendal",
+            "Bokstavkombinasjon": [
+                "PC",
+                "PD",
+                "PE",
+                "PF",
+                "PH",
+                "PJ",
+                "PK"
+            ]
+        },
+        {
+            "Fylke": "Agder",
+            "Geografisk område": "Flekkefjord",
+            "Bokstavkombinasjon": [
+                "RA",
+                "RB"
+            ]
+        },
+        {
+            "Fylke": "Agder",
+            "Geografisk område": "Kristiansand",
+            "Bokstavkombinasjon": [
+                "PN",
+                "PP",
+                "PR",
+                "PS",
+                "PT",
+                "PU",
+                "PV",
+                "PW"
+            ]
+        },
+        {
+            "Fylke": "Agder",
+            "Geografisk område": "Mandal",
+            "Bokstavkombinasjon": [
+                "PX",
+                "PY",
+                "PZ",
+                "RC",
+                "RD"
+            ]
+        },
+        {
+            "Fylke": "Agder",
+            "Geografisk område": "Setesdal",
+            "Bokstavkombinasjon": [
+                "PL",
+                "LF"
+            ]
+        },
+        {
+            "Fylke": "Rogaland",
+            "Geografisk område": "Egersund",
+            "Bokstavkombinasjon": [
+                "RZ",
+                "SA",
+                "SB"
+            ]
+        },
+        {
+            "Fylke": "Rogaland",
+            "Geografisk område": "Haugesund",
+            "Bokstavkombinasjon": [
+                "SC",
+                "SD",
+                "SE",
+                "SF",
+                "SH",
+                "SJ",
+                "SK",
+                "SL"
+            ]
+        },
+        {
+            "Fylke": "Rogaland",
+            "Geografisk område": "Stavanger",
+            "Bokstavkombinasjon": [
+                "RE",
+                "RF",
+                "RH",
+                "RJ",
+                "RK",
+                "RL",
+                "RN",
+                "RP",
+                "RR",
+                "RS",
+                "RT",
+                "RU",
+                "RV",
+                "RX",
+                "RY",
+                "RW"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Bergen",
+            "Bokstavkombinasjon": [
+                "SN",
+                "SP",
+                "SR",
+                "SS",
+                "ST",
+                "SU",
+                "SV",
+                "SX",
+                "SY",
+                "SZ",
+                "TA",
+                "TB",
+                "TC",
+                "TD",
+                "TE",
+                "HW"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Førde",
+            "Bokstavkombinasjon": [
+                "TV",
+                "TX",
+                "TY",
+                "TZ"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Nordfjordeid",
+            "Bokstavkombinasjon": [
+                "UA",
+                "UB"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Odda",
+            "Bokstavkombinasjon": [
+                "TS",
+                "TT",
+                "TU"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Sogndal",
+            "Bokstavkombinasjon": [
+                "UC",
+                "UD"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Stord",
+            "Bokstavkombinasjon": [
+                "TL",
+                "TN",
+                "TP",
+                "TR"
+            ]
+        },
+        {
+            "Fylke": "Vestland",
+            "Geografisk område": "Voss",
+            "Bokstavkombinasjon": [
+                "TF",
+                "TH",
+                "TJ",
+                "TK"
+            ]
+        },
+        {
+            "Fylke": "Møre og Romsdal",
+            "Geografisk område": "Kristiansund",
+            "Bokstavkombinasjon": [
+                "UX",
+                "UY",
+                "UZ",
+                "VA"
+            ]
+        },
+        {
+            "Fylke": "Møre og Romsdal",
+            "Geografisk område": "Molde",
+            "Bokstavkombinasjon": [
+                "UR",
+                "US",
+                "UT",
+                "UU",
+                "UV"
+            ]
+        },
+        {
+            "Fylke": "Møre og Romsdal",
+            "Geografisk område": "Sunndalsøra",
+            "Bokstavkombinasjon": [
+                "VB",
+                "VC"
+            ]
+        },
+        {
+            "Fylke": "Møre og Romsdal",
+            "Geografisk område": "Ørsta",
+            "Bokstavkombinasjon": [
+                "UN",
+                "UP",
+                "BB"
+            ]
+        },
+        {
+            "Fylke": "Møre og Romsdal",
+            "Geografisk område": "Ålesund",
+            "Bokstavkombinasjon": [
+                "UE",
+                "UF",
+                "UH",
+                "UJ",
+                "UK",
+                "UL"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Brekstad",
+            "Bokstavkombinasjon": [
+                "XA",
+                "XB",
+                "XC"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Levanger",
+            "Bokstavkombinasjon": [
+                "XK",
+                "XL",
+                "VW"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Namsos",
+            "Bokstavkombinasjon": [
+                "XR",
+                "XS",
+                "XT",
+                "XU"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Orkdal",
+            "Bokstavkombinasjon": [
+                "VX",
+                "VY",
+                "VZ"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Steinkjer",
+            "Bokstavkombinasjon": [
+                "XD",
+                "XE",
+                "XF",
+                "XH",
+                "XJ",
+                "XW"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Stjørdal",
+            "Bokstavkombinasjon": [
+                "XN",
+                "XP",
+                "YW"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Støren",
+            "Bokstavkombinasjon": [
+                "VS",
+                "VT"
+            ]
+        },
+        {
+            "Fylke": "Trøndelag",
+            "Geografisk område": "Trondheim",
+            "Bokstavkombinasjon": [
+                "FP",
+                "VD",
+                "VE",
+                "VF",
+                "VH",
+                "VJ",
+                "VK",
+                "VL",
+                "VN",
+                "VP",
+                "VR",
+                "VS",
+                "VU",
+                "VV",
+                "NW"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Bodø",
+            "Bokstavkombinasjon": [
+                "YE",
+                "YF",
+                "YH",
+                "YJ",
+                "FD",
+                "EZ"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Fauske",
+            "Bokstavkombinasjon": [
+                "YK",
+                "YL"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Mo i Rana",
+            "Bokstavkombinasjon": [
+                "YA",
+                "YB",
+                "YC",
+                "YD"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Mosjøen",
+            "Bokstavkombinasjon": [
+                "XV",
+                "XX",
+                "XY",
+                "XZ",
+                "FA"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Narvik",
+            "Bokstavkombinasjon": [
+                "YN",
+                "YP",
+                "YR",
+                "YS"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Sortland",
+            "Bokstavkombinasjon": [
+                "YU",
+                "YV",
+                "YX"
+            ]
+        },
+        {
+            "Fylke": "Nordland",
+            "Geografisk område": "Svolvær",
+            "Bokstavkombinasjon": [
+                "YT",
+                "YY"
+            ]
+        },
+        {
+            "Fylke": "Troms",
+            "Geografisk område": "Finnsnes",
+            "Bokstavkombinasjon": [
+                "ZD",
+                "ZF",
+                "ZJ",
+                "EX"
+            ]
+        },
+        {
+            "Fylke": "Troms",
+            "Geografisk område": "Harstad",
+            "Bokstavkombinasjon": [
+                "YZ",
+                "ZA",
+                "ZB",
+                "TW"
+            ]
+        },
+        {
+            "Fylke": "Troms",
+            "Geografisk område": "Storslett",
+            "Bokstavkombinasjon": [
+                "FK",
+                "SW"
+            ]
+        },
+        {
+            "Fylke": "Troms",
+            "Geografisk område": "Tromsø",
+            "Bokstavkombinasjon": [
+                "ZC",
+                "ZE",
+                "ZH",
+                "ZK",
+                "ZL",
+                "FC"
+            ]
+        },
+        {
+            "Fylke": "Finnmark",
+            "Geografisk område": "Alta",
+            "Bokstavkombinasjon": [
+                "ZT",
+                "ZU",
+                "ZV",
+                "ZY",
+                "ZW",
+                "UW"
+            ]
+        },
+        {
+            "Fylke": "Finnmark",
+            "Geografisk område": "Hammerfest",
+            "Bokstavkombinasjon": [
+                "ZX",
+                "FF",
+                "EX"
+            ]
+        },
+        {
+            "Fylke": "Finnmark",
+            "Geografisk område": "Kirkenes",
+            "Bokstavkombinasjon": [
+                "ZS",
+                "EY"
+            ]
+        },
+        {
+            "Fylke": "Finnmark",
+            "Geografisk område": "Lakselv",
+            "Bokstavkombinasjon": [
+                "ZZ",
+                "CW"
+            ]
+        },
+        {
+            "Fylke": "Finnmark",
+            "Geografisk område": "Vadsø",
+            "Bokstavkombinasjon": [
+                "FR",
+                "ZP",
+                "ZR",
+                "LE"
+            ]
+        },
+        {
+            "Fylke": "",
+            "Geografisk område": "Svalbard",
+            "Bokstavkombinasjon": [
+                "ZN",
+                "FH"
+            ]
+        }
+    ]
+}
