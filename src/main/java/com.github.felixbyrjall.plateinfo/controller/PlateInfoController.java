@@ -17,9 +17,9 @@ public class PlateInfoController {
         this.plateInfoService = plateInfoService;
     }
 
-    @GetMapping("/{licensePlate}")
-    public ResponseEntity<PlateInfoDTO> getPlateInfo(@PathVariable String licensePlate) {
-        PlateInfoDTO plateInfo = plateInfoService.getPlateInfo(licensePlate);
+    @GetMapping("/{vehicleId}")
+    public ResponseEntity<PlateInfoDTO> getPlateInfo(@PathVariable String vehicleId) {
+        PlateInfoDTO plateInfo = plateInfoService.getPlateInfo(vehicleId);
         if (plateInfo != null) {
             return ResponseEntity.ok(plateInfo);
         } else {

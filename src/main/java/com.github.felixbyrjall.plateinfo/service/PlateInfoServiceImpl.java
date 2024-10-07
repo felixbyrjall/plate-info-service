@@ -22,9 +22,9 @@ public class PlateInfoServiceImpl implements PlateInfoService {
     }
 
     @Override
-    public PlateInfoDTO getPlateInfo(String licensePlate) {
-        String prefix = licensePlate.substring(0, 2).toUpperCase();
-        log.info("Checking plate info for license plate \"{}\" with prefix: \"{}\"", licensePlate ,prefix);
+    public PlateInfoDTO getPlateInfo(String vehicleId) {
+        String prefix = vehicleId.substring(0, 2).toUpperCase();
+        log.info("Checking plate info for vehicleId \"{}\" with prefix: \"{}\"", vehicleId ,prefix);
 
         // Check special combinations first
         JsonNode specialCombinations = plateInfoData.path("Felles bokstavkombinasjoner");
