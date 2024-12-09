@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Slf4j
 @RestController
-@RequestMapping("/vehicle/plate-info")
+@RequestMapping("/api/vehicle/plate-info")
 public class PlateInfoController {
 
     private final PlateInfoService plateInfoService;
